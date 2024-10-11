@@ -23,6 +23,7 @@ const App = () => {
       <Contact />
       <BMICal />
       <Footer />
+      
       <ToastContainer theme='dark' position='top-center' />
     </Router>
   )
