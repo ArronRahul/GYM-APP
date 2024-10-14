@@ -1,0 +1,10 @@
+# Allow all web crawlers access to the whole site
+User-agent: *
+Disallow:
+
+# Block all crawlers from accessing the /admin/ and /private/ directories
+Disallow: /admin/
+Disallow: /private/
+
+# Block a specific file from all crawlers
+Disallow: /no-index.html

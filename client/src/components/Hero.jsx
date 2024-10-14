@@ -11,7 +11,12 @@ const Hero = () => {
           <h1>MOVING</h1>
         </div>
         <div className='sub-title'>
-          <p>Workouts with your friends</p>
+          <p>Your Journey to Fitness Starts Here</p>
+          <p>Unleash Your Potential </p>
+        </div>
+        <div className="buttons">
+          <button>Start Your Journey</button>
+          <button>Discover Your Plan</button>
         </div>
       </div>
     </section>
