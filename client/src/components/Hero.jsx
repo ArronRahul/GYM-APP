@@ -14,8 +14,6 @@ const Hero = () => {
           <p>Your Journey to Fitness Starts Here</p>
           <p>Unleash Your Potential </p>
         </div>
-
-        
         <div className="buttons">
           <button>Start Your Journey</button>
           <button>Discover Your Plan</button>
